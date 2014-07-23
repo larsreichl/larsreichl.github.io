@@ -6,8 +6,8 @@ modified: 2014-06-25 15:48
 tags: []  
 image:
   feature: hexagons2.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com  
+  credit: 
+  creditlink: 
   
 share: 
 ---
