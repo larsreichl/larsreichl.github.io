@@ -52,7 +52,7 @@ and assemble data sets in which the collective behavior can be quantified in tho
 My expertise includes neuroscience, mathematical modeling, scientific data analysis, and biophysics.
 
 ## Curriculum Vitae
-You can [get the PDF]({{ site.url }}/assets/CV.pdf) directly.
+You can [get the PDF]({{ site.url }}/assets/CV.pdf){:target="_blank"} directly.
 
 
 ## Publications
@@ -63,10 +63,10 @@ is required for gastrulation movements in Drosophila, Developmental Biology 390,
 [Link](http://www.sciencedirect.com/science/article/pii/S0012160614001420){:target="_blank"}
 
 * Reichl et al., Coordinated optimization of visual cortical maps (I) Symmetry-based Analysis, PLOS Comput. Biol. 8, 11 (2012)
-[Link](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002466)
+[Link](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002466){:target="_blank"}
 
 * Reichl et al., Coordinated optimization of visual cortical maps (II) Numerical studies, PLOS Comput. Biol. 8, 11 (2012)
-[Link](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1002756)
+[Link](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1002756){:target="_blank"}
 
 * Reichl et al., Pinwheel stabilization by ocular dominance segregation, Phys. Rev. Lett. 102, 208101 (2009)
-[Link](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.102.208101)
+[Link](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.102.208101){:target="_blank"}
