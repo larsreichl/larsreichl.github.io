@@ -7,7 +7,7 @@ tags: [about, Jekyll, theme, responsive]
 modified: 9-9-2013
 comments: true
 image:
-  feature: Blatt_Rect.jpg
+  feature: Blatt_Rect2.jpg
   credit: 
   creditlink: 
 ---
@@ -31,24 +31,22 @@ Germany
 
 
 ## Research Interests
-I studied physics with a focus on high energy physics and cosmology.
-After my diploma I oriented my research interest towards theoretical neuroscience.
-During my PhD I focused on the development of neuronal selectivity in the primary visual cortex.
-The large-scale visual cortical organization in many species follows a quantitatively precisely defined common design.
-Can this design be explained by an optimization principle for brain architecture?
-To answer this question, I developed a symmetry-based approach to exhaustively classify potential optimization 
-principles and analyzed their predictions for visual cortical architecture.
-I achieved this using methods from pattern formation theory.
-I found that only a tightly constraint subclass of principles can account for the observed common design.
-In my postdoctoral research I am studying morphogenesis in the Drosophila embryo in collaboration with 
-developmental biologists.
-Here I am focusing on the dynamics of cell contacts during such morphogenetic transformations.
-From a dynamical systems perspective, I am particularly interested in 
-whether and how the involved cells are actively coordinating their behaviors in order to achieve morphogenetic 
-transformations efficiently.
-The quantitative answer to these questions demands analyzing large numbers of cells.
-I am therefore using large-scale image analysis from in-vivo fluorescence time-lapse microscopy of intact embryos 
-and assemble data sets in which the collective behavior can be quantified in thousands of cells.
+
+Visual cortical development <br>
+
+Pattern formation <br>
+
+Large-scale image analysis <br>
+
+Scientific data analysis <br>
+
+Biophysics <br>
+
+High energy physics, quantum field theory, and cosmology <br>
+
+
+
+
 My expertise includes neuroscience, mathematical modeling, scientific data analysis, and biophysics.
 
 ## Curriculum Vitae
