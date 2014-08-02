@@ -15,7 +15,7 @@ share:
 
 ## Pattern selection in models of visual development
 
-I focus on the development of neuronal selectivity in the primary visual cortex.
+My research focuses on the development of neuronal selectivity in the primary visual cortex.
 The large-scale visual cortical organization in many species follows a quantitatively precisely defined common design.
 Can this design be explained by an optimization principle for brain architecture?
 To answer this question, I developed a symmetry-based approach to exhaustively classify potential optimization 
