@@ -7,7 +7,7 @@ tags: [about, Jekyll, theme, responsive]
 modified: 9-9-2013
 comments: true
 image:
-  feature: Blatt_Rect2.jpg
+  feature: Blatt_Rect.jpg
   credit: 
   creditlink: 
 ---
