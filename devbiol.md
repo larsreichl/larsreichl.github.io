@@ -19,7 +19,6 @@ From a dynamical systems perspective, I am particularly interested in
 whether and how the involved cells are actively coordinating their behaviors in order to achieve morphogenetic 
 transformations efficiently.
 
-## Morphogenesis in Drosophila embryo
 
 ## Large-scale image analysis
 

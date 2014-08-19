@@ -32,22 +32,14 @@ Germany
 
 ## Research Interests
 
+Neuroscience <br>
 Visual cortical development <br>
-
 Pattern formation <br>
-
-Large-scale image analysis <br>
-
-Scientific data analysis <br>
-
 Biophysics <br>
+Large-scale image analysis <br>
+Scientific data analysis <br>
+High energy physics, quantum field theory, and cosmology 
 
-High energy physics, quantum field theory, and cosmology <br>
-
-
-
-
-My expertise includes neuroscience, mathematical modeling, scientific data analysis, and biophysics.
 
 ## Curriculum Vitae
 You can [get the PDF]({{ site.url }}/assets/CV.pdf){:target="_blank"} directly.
